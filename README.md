@@ -1,3 +1,7 @@
+**DEPRECATED: [@silviolleite](https://github.com/silviolleite/) has been kind enough to build on this initial implementation and add some excellent functionality.  You can find his supported implementation of this project here: https://github.com/silviolleite/django-pwa**
+
+Silvio has also published it to PyPI: https://pypi.org/project/django-pwa/
+
 django-progressive-web-app
 =====
 This Django app turns your project into a [progressive web app](https://developers.google.com/web/progressive-web-apps/).  Navigating to your site on an Android phone will prompt you to add the app to your home screen.
